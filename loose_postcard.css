@@ -1,0 +1,19 @@
+.loosePostcard {
+  padding: 1rem;
+  margin: 1rem;
+  display: inline-block;
+}
+.loosePostcard .userInfo .info {
+  display: inline-block;
+  margin-left: 1rem;
+  margin-bottom: 0.5rem;
+}
+.loosePostcard .userInfo .profilePicture {
+  display: inline-block;
+  height: 3rem;
+  width: 3rem;
+}
+.loosePostcard .userInfo .profilePicture img {
+  width: 100%;
+  height: auto;
+}
